@@ -1,0 +1,5 @@
+export const ACTIVATION_TIME_MS = 5000;
+
+export const DEVICE_REACTION_GRACE_TIME_MS = 2000;
+
+export const POWER_SUPPLY_ON_TIME_MS = 5 * 60 * 1000;
